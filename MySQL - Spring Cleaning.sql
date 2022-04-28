@@ -52,4 +52,4 @@ delete from shirts
 select * from shirts
 
 /*4.11 Drop the entire shirts table.*/ 
-drop table shirts	0 row(s) affected	0.094 sec
+drop table shirts
